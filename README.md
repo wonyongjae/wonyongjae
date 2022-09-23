@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 
 <!-- &exclude_repo=study &card_width=50-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyongjae&langs_count=3&hide_title=true&hide=jupyter%20notebook&layout=defualt&theme=highcontrast)](https://github.com/wonyongjae)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongjae&show_icons=true&theme=highcontrast&hide_title=true&line_height=26.95)](https://github.com/wonyongjae)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyongjae&langs_count=4&hide_title=true&hide=jupyter%20notebook&layout=defualt&theme=highcontrast)](https://github.com/wonyongjae)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongjae&show_icons=true&theme=highcontrast&hide_title=true&line_height=30)](https://github.com/wonyongjae)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_title=true&theme=highcontrast)](https://github.com/wonyongjae) -->
 
 

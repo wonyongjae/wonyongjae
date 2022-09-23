@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
 <img src="https://img.shields.io/badge/javascript-F9DC3E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/typescript-F9DC3E?style=flat-square&logo=typescript&logoColor=black"/>
 
@@ -25,10 +26,11 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/c-F9DC3E?style=flat-square&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/java-F9DC3E?style=flat-square&logo=java&logoColor=black"/>
-
+</p>
+<p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyongjae&langs_count=10&hide=&exclude_repo=study&layout=compact&theme=highcontrast)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongjae&show_icons=true&theme=highcontrast)
-
+</p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>

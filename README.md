@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!-- &exclude_repo=study -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyongjae&langs_count=3&hide_title=true&hide=jupyter%20notebook&layout=defualt&theme=highcontrast&card_width=50)](https://github.com/wonyongjae)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongjae&show_icons=true&theme=highcontrast&hide_title=true&line_height=2)](https://github.com/wonyongjae)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongjae&show_icons=true&theme=highcontrast&hide_title=true&line_height=20)](https://github.com/wonyongjae)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_title=true&theme=highcontrast)](https://github.com/wonyongjae) -->
 
 

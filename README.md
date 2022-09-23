@@ -27,15 +27,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c-F9DC3E?style=flat-square&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/java-F9DC3E?style=flat-square&logo=java&logoColor=black"/>
 </p>
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://github.com/wonyongjae)
-	
-  </div>
-<div align=center>
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyongjae&langs_count=10&hide_title=true&exclude_repo=study&layout=defualt&theme=highcontrast)](https://github.com/wonyongjae)
-</div>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_title=true&theme=highcontrast)](https://github.com/wonyongjae)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_title=true&theme=highcontrast&layout=compact)](https://github.com/wonyongjae)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongjae&show_icons=true&theme=highcontrast&hide_title=true)](https://github.com/wonyongjae)
 
 

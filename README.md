@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 </p>
   <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://github.com/wonyongjae)
 	
   </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyongjae&langs_count=10&hide_title=true&exclude_repo=study&layout=defualt&theme=highcontrast)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_title=true&theme=highcontrast)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongjae&show_icons=true&theme=highcontrast&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyongjae&langs_count=10&hide_title=true&exclude_repo=study&layout=defualt&theme=highcontrast)](https://github.com/wonyongjae)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_title=true&theme=highcontrast)](https://github.com/wonyongjae)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongjae&show_icons=true&theme=highcontrast&hide_title=true)](https://github.com/wonyongjae)
 
 
 

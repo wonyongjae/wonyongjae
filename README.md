@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-F9DC3E?style=flat-square&logo=java&logoColor=black"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyongjae&langs_count=10&hide_title=true&exclude_repo=study&layout=defualt&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyongjae&langs_count=4&hide_title=true&exclude_repo=study&layout=defualt&theme=highcontrast)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongjae&show_icons=true&theme=highcontrast&hide_title=true)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">

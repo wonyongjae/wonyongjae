@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/javascript-F9DC3E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/typescript-F9DC3E?style=flat-square&logo=typescript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/nextjs-F9DC3E?style=flat-square&logo=nextjs&logoColor=black"/>
-<img src="https://img.shields.io/badge/python-F9DC3E?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/next-F9DC3E?style=flat-square&logo=next&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/react-F9DC3E?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/redux-F9DC3E?style=flat-square&logo=redux&logoColor=black"/>
+<img src="https://img.shields.io/badge/recoil-F9DC3E?style=flat-square&logo=recoil&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/c-F9DC3E?style=flat-square&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/java-F9DC3E?style=flat-square&logo=java&logoColor=black"/>

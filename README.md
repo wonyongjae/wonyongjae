@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyongjae&langs_count=3&hide_title=true&exclude_repo=study&layout=defualt&theme=highcontrast)](https://github.com/wonyongjae)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyongjae&langs_count=3&hide_title=true&exclude_repo=study&layout=defualt&theme=highcontrast&card_width=30)](https://github.com/wonyongjae)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_title=true&theme=highcontrast)](https://github.com/wonyongjae) -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongjae&show_icons=true&theme=highcontrast&hide_title=true)](https://github.com/wonyongjae)
 

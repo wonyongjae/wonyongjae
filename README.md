@@ -1,4 +1,4 @@
-### Hi there 👋
+### GET
 
 <!--
 **wonyongjae/wonyongjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/javascript-3DDC84?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F9DC3E?style=flat-square&logo=javascript&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongjae&show_icons=true&theme=highcontrast)

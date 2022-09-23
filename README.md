@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Redux-512BD4?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recoil-0B2C4A?style=flat-square&logo=recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-A5915F?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
   
